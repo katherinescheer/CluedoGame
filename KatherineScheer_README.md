@@ -45,9 +45,6 @@ testing.py           # Unit tests for core functionalities
 weapons.py           # Defines weapons and assigns rooms
 
 
-To clone the game use the command "git clone <https://github.com/kscheer6/CluedoGame>" in your terminal and navigate to the project directory "cd KatherineScheer_Project2_SourceCode"
-
-
 Players can perform the following actions:
 Move around the "board".
 Make a suggestion: Propose a character, a weapon, and the current room to gain information from NPCs.
